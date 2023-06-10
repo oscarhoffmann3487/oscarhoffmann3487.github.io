@@ -1,0 +1,20 @@
+.center {
+    align-items: center;
+    text-align: center;
+}
+
+.headline {
+    margin-top: 10%;
+    font-size: 1.5cm;
+    color: rgb(30, 30, 90);
+}
+
+.img{
+    scale: 50%;
+}
+
+.text{
+    font-size: xx-large;
+    line-height: normal;
+    color: rgb(30, 30, 90);
+}
